@@ -1,5 +1,5 @@
 # Wi-Fi Tools
-[![Downloads](https://img.shields.io/github/downloads/IP-Tools-App/wifi-tools-apk/total.svg?color=blue?style=flat)](https://IP-Tools-App/wifi-tools-apk/releases/latest) [![Version](https://img.shields.io/github/v/release/IP-Tools-App/wifi-tools-apk??color=bluelabel=version)](https://IP-Tools-App/wifi-tools-apk/releases)
+[![Downloads](https://img.shields.io/github/downloads/IP-Tools-App/wifi-tools-apk/total.svg?color=blue?style=flat)](https://github.com/IP-Tools-App/wifi-tools-apk/releases/latest) [![Version](https://img.shields.io/github/v/release/IP-Tools-App/wifi-tools-apk??color=bluelabel=version)](https://github.com/IP-Tools-App/wifi-tools-apk/releases)
 
 This is Beta version of [IP Tools](https://github.com/IP-Tools-App/ip-tools-apk) project.
 
